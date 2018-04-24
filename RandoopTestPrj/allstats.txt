@@ -1,0 +1,77 @@
+========== CryptographyManager.CryptographyManager.System.String Encrypt(System.String, System.String)
+
+Test generation statistics.
+21     : TRIED to create test ending with this member
+6      : FAILED TO CREATE: found no input arguments
+0      : FAILED TO CREATE: found inputs, but new test syntactially the same as an old test
+15     : SUCCEEDED in creating a new test
+
+Test execution statistics.
+15     : normal
+
+========== CryptographyManager.CryptographyManager.System.String Decrypt(System.String, System.String)
+
+Test generation statistics.
+20     : TRIED to create test ending with this member
+5      : FAILED TO CREATE: found no input arguments
+0      : FAILED TO CREATE: found inputs, but new test syntactially the same as an old test
+15     : SUCCEEDED in creating a new test
+
+Test execution statistics.
+15     : normal
+
+========== CryptographyManager.CryptographyManager constructor Void .ctor()
+
+Test generation statistics.
+17     : TRIED to create test ending with this member
+0      : FAILED TO CREATE: found no input arguments
+16     : FAILED TO CREATE: found inputs, but new test syntactially the same as an old test
+1      : SUCCEEDED in creating a new test
+
+Test execution statistics.
+1      : normal
+
+========== CryptographyManager.CryptographyManager.System.String Decrypt(System.String)
+
+Test generation statistics.
+14     : TRIED to create test ending with this member
+2      : FAILED TO CREATE: found no input arguments
+0      : FAILED TO CREATE: found inputs, but new test syntactially the same as an old test
+12     : SUCCEEDED in creating a new test
+
+Test execution statistics.
+12     : normal
+
+========== CryptographyManager.CryptographyManager.System.String Encrypt(System.String, System.String, System.String)
+
+Test generation statistics.
+13     : TRIED to create test ending with this member
+1      : FAILED TO CREATE: found no input arguments
+0      : FAILED TO CREATE: found inputs, but new test syntactially the same as an old test
+12     : SUCCEEDED in creating a new test
+
+Test execution statistics.
+12     : normal
+
+========== CryptographyManager.CryptographyManager.System.String Decrypt(System.String, System.String, System.String)
+
+Test generation statistics.
+10     : TRIED to create test ending with this member
+5      : FAILED TO CREATE: found no input arguments
+0      : FAILED TO CREATE: found inputs, but new test syntactially the same as an old test
+5      : SUCCEEDED in creating a new test
+
+Test execution statistics.
+5      : normal
+
+========== CryptographyManager.CryptographyManager.System.String Encrypt(System.String)
+
+Test generation statistics.
+9      : TRIED to create test ending with this member
+0      : FAILED TO CREATE: found no input arguments
+0      : FAILED TO CREATE: found inputs, but new test syntactially the same as an old test
+9      : SUCCEEDED in creating a new test
+
+Test execution statistics.
+9      : normal
+
